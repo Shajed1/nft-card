@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+      padding: 0;
+      background-color: hsl(217, 54%, 11%);
+      height: 100vh;              
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+}
+.first-pic{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+.full-div{
+    padding-top: 30px;
+    margin: 0;
+      height: 100vh;
+     
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+.full-divsecond{
+      background-color: hsl(216, 50%, 16%);
+      width: 250px;
+      padding: 20px;
+      text-align: start;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
+      padding-left: 25px;
+      padding-right:25px;
+    
+}
+.avatar-image{
+     height:30px;
+    
+    border-radius: 50%;
+}
+.nft-name{
+font-weight: 550;
+font-size: 16px;
+}
+.nft-discription{
+   color: hsl(215, 51%, 70%);
+font-size: 13px;
+}
+.nft-eth{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+    align-items: center;
+}
+.nft-full1{
+   display: flex;
+  align-items: center;   /* vertically align image and text */
+  justify-content: flex-start; /* align to the left */
+  gap: 8px;
+    
+
+}
+.quantity-eth{
+       font-weight:bold ;
+       font-size: 15px;
+      margin-right: 20px;
+      color: hsl(178, 100%, 50%);   
+}
+.quantity-eth-pic{
+height: 15px;
+margin-left: 0px;
+
+
+}
+.dayleft-eth{
+     font-size: 12px;
+     color: hsl(215, 51%, 70%);
+     
+}
+.nft-full2{
+     display: flex;
+  align-items: center;   /* vertically align image and text */
+  justify-content: flex-start; /* align to the left */
+  gap: 8px;
+}
+.dayleft-eth-time{
+    height: 15px;
+    
+}
+.line-direction{
+    border-color: hsl(215, 32%, 27%);
+  
+    height: o.09px;
+}
+.footer-div{
+     display: flex;
+   flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.name1{
+    font-size: 11px;
+    color: hsl(215, 51%, 70%);
+}
+.name2{
+    font-size: 13px;
+    font-weight: bold;
+    color: hsl(0, 0%, 100%);
+}
+.name-direction{
+     display: flex;
+   flex-direction: row;
+   align-items: center;
+    
+}
+.name2-div{
+   
+   margin-top: 0%; margin-left: 11px;
+}
+.name2-div{
+        margin-top: 0px;
+}
